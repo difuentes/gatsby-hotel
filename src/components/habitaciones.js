@@ -2,7 +2,7 @@ import React from 'react';
 import {graphql} from 'gatsby'
 import Layout from '../components/layout'
 import Image from 'gatsby-image';
-import styled from '@emotion/styled'
+
 import {css} from '@emotion/core'
 
 export const  query = graphql`
