@@ -41,7 +41,7 @@ const ContenidoInicio = () => {
         }
       }
     `);
-    console.log(informacion.allDatoCmsPagina.nodes[0])
+    //console.log(informacion.allDatoCmsPagina.nodes[0])
     const {contenido ,titulo,imagen} = informacion.allDatoCmsPagina.nodes[0];
 
     return ( 
